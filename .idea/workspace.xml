@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="429b33dd-28d0-41ec-bac7-42d4f41d35a4" name="Default Changelist" comment="" />
+    <list default="true" id="429b33dd-28d0-41ec-bac7-42d4f41d35a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VrFskTxk6eTVKpS5lhpQFydORN" />
   <component name="ProjectViewState">
@@ -17,6 +22,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.project.py ">
@@ -98,6 +104,7 @@
       <updated>1578003515024</updated>
       <workItem from="1584368201659" duration="1167000" />
       <workItem from="1599596591810" duration="21000" />
+      <workItem from="1599597285294" duration="444000" />
     </task>
     <servers />
   </component>
@@ -105,10 +112,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="507" y="27" key="#project.py_" timestamp="1599596794756">
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599597724365">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="507" y="27" key="#project.py_/0.0.1536.824@0.0.1536.824" timestamp="1599596794756" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1599597724365" />
+    <state x="507" y="27" key="#project.py_" timestamp="1599597703956">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="507" y="27" key="#project.py_/0.0.1536.824@0.0.1536.824" timestamp="1599597703956" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1599597731014">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599597731014" />
     <state x="277" y="55" key="SettingsEditor" timestamp="1599596856589">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
